@@ -1,3 +1,9 @@
 # To test push and pull of GitHub
 
-print ("hello, world!")
+def main():
+    name = str()
+
+    name = input ("Enter your name: ")
+    print ("Hello, ", name, "!")
+
+main()
